@@ -1,0 +1,25 @@
+<span id="a">root@iffy</span>:<span id="b">~</span><span id="c">$</span> cd AnshumanDas/AboutMe
+<span id="a">root@iffy</span>:<span id="b">~</span><span id="c">$</span> ~/AnshumanDas/AboutMet$ cat</br><!--iffy-->iffy.txt<br/><br/>
+Hey Hacker / Dev , "<span id="k">Anshuman a.k.a 0x48iffy</span>" who is a Cyber Security Researcher, Junior Web Application Pentester, Red Teamming Aspirant, Pianist and currently pursuing BTech(CSE) at Lovely professional University,Phagwara,Punjab, India.
+
+Hunting BUG is his daily routine. He aims to seure Cyber Space by breaking through it.</p>
+<p>"<span id="k">* Community</span>" : He loves to serve a community works as well as build community. Currently he is working on his own idea. Want to Join? Click here:<a href="https://www.seconset.in>SecOnset</a></p>
+
+<p>"<span id="k">* Work Expriences</span>" : </p>
+ <p>[+] WebApplication Pentester @<a href="https://whitmax.in">WhiteMax Software Solution</a></p>
+ <p>[+] Community Organizer @<a href="https://community.mozilla.org/groups/mozilla-punjab/">Mozilla Punjab</a></p>
+ <p>[+] Community Organizer @<a href="#">GirlScript Jalandhar</a></p>
+ <p>[+] Technical Content Writer & Internship Co-ordinator @<a href="https://includehelp.com">IncludeHelp </a></p>
+
+<p>"<span id="k">* Platforms</span>" : </p>
+<p>[+] Bugcrowd : <a href="https://bugcrowd.com/hiffy">0x48iffy</a></p>
+<p>[+] TryHackMe : <a href="https://tryhackme.com/p/0x48iffy">0x48iffy</a></p>
+<p>[+] GitHub : <a href="https://github.com/0x48iffy">0x48iffy</a></p>
+
+<p>Achievements-26 Hall Of Fame for valid vulnerabilities submissions</p>
+
+<p> Follow me at <a href="https://www.linkedin.com/in/ianshu">Linkedin</a></p>
+
+If you want to contact me, feel free to send me an<a href = "mailto: anshuman@seconset.in"> Email</a>
+
+<p>Keep Hunting</p>
