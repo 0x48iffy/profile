@@ -1,0 +1,16 @@
+<span id="a">root@iffy</span>:<span id="b">~</span><span id="c">$</span> cd Anshuman Das/About me
+<span id="a">root@iffy</span>:<span id="b">~</span><span id="c">$</span> ~/iffy/about$ cat</br><!--iffy-->aboutiffy.txt<br/><br/>
+Hey Hacker / Dev , "<span id="k">Anshuman a.k.a 0x48iffy who is a Cyber Security Researcher, Junior Web Application Pentester, Rem Teamming Aspirant and Pianist, currently pursuing BTech(CSE) at Lovely professional University,Phagwara,Punjab, India</span>".
+
+I am an Ethical Hacker,Bug Bounty Hunter,CTF Player,Pentester and Front-End Developer<p>My aim is to obtain a crowning status in the technological industry as an efficient certified ethical hacker</p>
+<p>I am working as security researcher on Bugcrowd,Hackerone</p>
+
+<p>My Bugcrowd Id-<a href="https://bugcrowd.com/hiffy">0x48iffy</a></p>
+
+<p>Achievements-26 Hall Of Fame for valid vulnerabilities submissions</p>
+
+<p> Follow me at <a href="https://www.linkedin.com/in/ianshu">Linkedin</a></p>
+
+If you want to contact me, feel free to send me an<a href = "mailto: anshuman@seconset.in"> Email</a>
+
+<p>Keep Hunting</p>
